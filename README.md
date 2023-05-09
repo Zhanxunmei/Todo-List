@@ -3,7 +3,7 @@ I want to create a To do list App.
 
 # Component Breakdown
 - ToDo App
-- Add Section
+- Form Section
 -ToDo List
 - ToDo Item
 - Buttons (edit, delete)
