@@ -1,11 +1,7 @@
 # TO DO LIST
-I want to create a To do list App.
+I created a simple Todo List App
 
-# Component Breakdown
-- ToDo App
-- Form Section
--ToDo List
-- ToDo Item
-- Buttons (edit, delete)
-
-//Yet to complete this project.
+This project will be created with three categories;
+1. Header
+2.Input(Input and Button Element)
+3.List of items(Ul with lists)
